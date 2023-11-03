@@ -21,6 +21,6 @@
   },
   "require": {
     "btccom/cashaddress": "v0.0.3",
-    "selaz/bitcoin": "dev-master"
+    "selaz/bitcoin": "1.0.x-dev"
   }
 }
